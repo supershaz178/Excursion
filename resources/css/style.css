@@ -1,9 +1,9 @@
 body{
   background-color: black;
+  font-family: Verdana;
   text-align: center;
 }
 h1{
-  font-family: Verdana;
   color: white;
 }
 
@@ -31,5 +31,5 @@ a{
 
 #copyright{
   text-align: right;
-  color: grey; 
+  color: grey;
 }
