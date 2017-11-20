@@ -18,19 +18,16 @@ a{
 .subtitles{
   font-weight: 300;
   font-size: 42px;
-  font-family: Verdana;
   color: white;
 }
 
 #description{
   font-size: 21px;
   font-weight: normal;
-  font-family: Verdana;
   color: grey;
 }
 
 #copyright{
-  font-family: Verdana;
   text-align: right;
   color: grey;
 }
